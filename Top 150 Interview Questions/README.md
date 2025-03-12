@@ -4,4 +4,10 @@
 
 ### Top 150 Interview Questions: Attempted and/or Completed    
 
-88. [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)
+#### 🟢 EASY  
+88. [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)  
+27. [Remove Element](https://leetcode.com/problems/remove-element/description/)
+
+#### 🟠 MEDIUM  
+
+#### 🔴 HARD  
