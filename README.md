@@ -6,10 +6,10 @@ This repository is to keep track of coding interview questions (such as those pr
 ### Progress Tracker:  
 ✔️ Easy: 2   
 ✔️ Medium: 0  
-✔️ Hard: 0 
-✅ Total: 2
-✅ SOLVED: 2  
-
+✔️ Hard: 0  
+✅ Total: 2  
+✅ SOLVED: 2   
+  
 (Total refers to all attempted and solved. Solved refers to solutions that were ACCEPTED by the platform as correct.)
 
 ### Platforms:  
