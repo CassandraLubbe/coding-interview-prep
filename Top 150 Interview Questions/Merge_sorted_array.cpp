@@ -26,6 +26,12 @@ public:
     }
 };
 
+/*
+REFLECTION:
+While this code DID pass the 3 test cases provided, the code does lack the ability to fully meet all test cases, and ultimately
+the code requires further coding to correct it.
+*/
+
 // Final attempt code: CORRECT
 class Solution {
 public:
@@ -38,9 +44,3 @@ public:
         sort(nums1.begin(), nums1.end());
     }
 };
-
-/*
-REFLECTION:
-While this code DID pass the 3 test cases provided, the code does lack the ability to fully meet all test cases, and ultimately
-the code requires further coding to correct it.
-*/
