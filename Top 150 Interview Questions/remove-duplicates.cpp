@@ -15,7 +15,7 @@ int removeDuplicates(vector<int>& nums) {
     int move = 0;
     
     for (int i = 0; i < size; i++) {
-        int left = 1;
+        int left = i + 1;
         if (nums[i] != nums[left]) {
             left++;
         }
