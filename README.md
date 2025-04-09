@@ -12,7 +12,7 @@ This repository is to keep track of coding interview questions (such as those pr
 
 
 (Same Problem Different Programming Language)  
-🐍 Python:     1  
+🐍 Python:     2  
 💻 CPP:        4  
   
 (Total refers to all attempted and solved. Solved refers to solutions that were ACCEPTED by the platform as correct.)
